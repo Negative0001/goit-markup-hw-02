@@ -97,6 +97,7 @@ p {
   font-weight: 700;
   line-height: 1.16;
   font-size: 18px;
+text-decoration: none;
 }
 .part1 {
   color: #4d5ae5;
@@ -104,6 +105,4 @@ p {
 .part2 {
   color: #f4f4fd;
 }
-.text-mix > a {
-  text-decoration: none;
-}
+
